@@ -20,6 +20,6 @@
   },
   "default_locale": "en-US",
   "categories":["health"],
-  "type": "web", // or "certified"
+  "type": "web"
   
 }
